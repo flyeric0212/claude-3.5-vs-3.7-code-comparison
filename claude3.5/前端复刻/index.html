@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI代码编辑器</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            background: linear-gradient(45deg, #000000, #1a1a1a);
+            color: #ffffff;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(90deg, #ff4d4d, #4dff4d);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .code-section {
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 10px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            overflow: hidden;
+        }
+
+        .code-content {
+            font-family: 'Courier New', Courier, monospace;
+            color: #00ff00;
+            line-height: 1.6;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2rem;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .feature-card img {
+            width: 100px;
+            height: 100px;
+            margin-bottom: 1rem;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem 0;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .footer-links a {
+            color: #ffffff;
+            text-decoration: none;
+            opacity: 0.7;
+            transition: opacity 0.3s;
+        }
+
+        .footer-links a:hover {
+            opacity: 1;
+        }
+
+        .gradient-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at top right, rgba(255, 0, 0, 0.2), transparent),
+                        radial-gradient(circle at bottom left, rgba(0, 255, 0, 0.2), transparent);
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <div class="gradient-bg"></div>
+    <div class="container">
+        <header class="header">
+            <h1>AI代码编辑器</h1>
+            <p>智能代码补全与分析工具</p>
+        </header>
+
+        <section class="code-section">
+            <pre class="code-content">
+function calculateSum(a, b) {
+    return a + b;
+}
+
+// AI智能提示
+function processData(data) {
+    const result = data.map(item => {
+        return item * 2;
+    });
+    return result;
+}</pre>
+        </section>
+
+        <section class="features">
+            <div class="feature-card">
+                <img src="https://via.placeholder.com/100" alt="特性1">
+                <h3>智能补全</h3>
+                <p>基于AI的代码智能补全</p>
+            </div>
+            <div class="feature-card">
+                <img src="https://via.placeholder.com/100" alt="特性2">
+                <h3>代码分析</h3>
+                <p>实时代码质量分析</p>
+            </div>
+            <div class="feature-card">
+                <img src="https://via.placeholder.com/100" alt="特性3">
+                <h3>多语言支持</h3>
+                <p>支持多种编程语言</p>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="#">GitHub</a>
+            <a href="#">文档</a>
+            <a href="#">支持</a>
+            <a href="#">关于我们</a>
+        </div>
+        <p>© 2024 AI代码编辑器. All rights reserved.</p>
+    </footer>
+</body>
+</html>
