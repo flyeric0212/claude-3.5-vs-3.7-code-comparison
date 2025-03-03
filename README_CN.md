@@ -1,5 +1,7 @@
 # Claude 3.5 与 3.7 代码对比
 
+> **教程链接**: [https://flyeric.top/archives/claude-3.5-vs-3.7-code-comparison](https://flyeric.top/archives/claude-3.5-vs-3.7-code-comparison)
+
 本仓库包含了在 Cursor 编辑器环境中 Claude 3.5 和 Claude 3.7 AI 模型前端编程能力的对比。该项目旨在评估和展示这些 AI 模型在代码生成、问题解决方法和前端开发任务整体效果方面的差异。
 
 ## 项目结构

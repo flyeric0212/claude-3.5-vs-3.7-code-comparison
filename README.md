@@ -1,5 +1,7 @@
 # Claude 3.5 vs 3.7 Code Comparison
 
+> **Tutorial Link**: [https://flyeric.top/archives/claude-3.5-vs-3.7-code-comparison](https://flyeric.top/archives/claude-3.5-vs-3.7-code-comparison)
+
 This repository contains a comparison of frontend programming capabilities between Claude 3.5 and Claude 3.7 AI models in the Cursor editor environment. The project aims to evaluate and showcase the differences in code generation, problem-solving approaches, and overall effectiveness of these AI models in frontend development tasks.
 
 ## Project Structure
