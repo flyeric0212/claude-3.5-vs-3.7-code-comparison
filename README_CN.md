@@ -18,11 +18,49 @@
 ### 1. 前端复刻
 根据截图重新创建 Cursor 官方网站 UI，测试 AI 将视觉设计转换为功能代码的能力。
 
+claude 3.5:
+![image-20250301下午72015695](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8872015695.png)
+
+claude 3.7:
+![image-20250301下午84237225](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8884237225.png)
+
+![image-20250301下午84305134](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8884305134.png)
+
+...
+![image-20250301下午84432714](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8884432714.png)
+
+
 ### 2. 传统框架应用
 使用 HTML、CSS 和 JavaScript 实现登录页面，评估 AI 对基础网络技术的熟练程度。
 
+claude 3.5:
+![image-20250301下午85733698](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8885733698.png)
+
+claude 3.7:
+![image-20250301下午90148157](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8890148157.png)
+
 ### 3. 单页应用
 使用 React 开发博客应用，评估 AI 使用现代前端框架和创建交互式用户界面的能力。
+
+claude 3.5:
+![image-20250301下午103150854](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103150854.png)
+
+![image-20250301下午103223476](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103223476.png)
+
+![image-20250301下午103246207](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103246207.png)
+
+![image-20250301下午103301981](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103301981.png)
+
+claude 3.7:
+![image-20250301下午91727614](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891727614.png)
+
+![image-20250301下午91805328](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891805328.png)
+
+![image-20250301下午91856270](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891856270.png)
+
+![image-20250301下午91929079](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891929079.png)
+
+![image-20250301下午92358376](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8892358376.png)
 
 ## 项目目的
 
