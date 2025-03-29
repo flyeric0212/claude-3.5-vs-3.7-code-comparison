@@ -1,0 +1,146 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f8f9fa; /* 浅灰色背景 */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; /* 白色背景 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 细微阴影 */
+    border-radius: 8px; /* 圆角 */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e9ecef; /* 浅灰色分割线 */
+    margin-bottom: 20px;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav li {
+    margin-left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #495057; /* 深灰色文字 */
+}
+
+nav a:hover {
+    color: #007bff; /* 蓝色悬停效果 */
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+}
+
+.search-bar input {
+    padding: 8px 12px;
+    border: 1px solid #ced4da; /* 灰色边框 */
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.search-bar button {
+    padding: 8px 12px;
+    background-color: #007bff; /* 蓝色按钮 */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* 深蓝色悬停效果 */
+}
+
+.main-content {
+    display: flex;
+    gap: 20px; /* 内容区域和侧边栏的间距 */
+}
+
+.content-area {
+    flex: 3; /* 内容区域占 3 份 */
+}
+
+.sidebar {
+    flex: 1; /* 侧边栏占 1 份 */
+    background-color: #e9ecef; /* 浅灰色侧边栏背景 */
+    padding: 15px;
+    border-radius: 4px;
+}
+
+h1 {
+    font-size: 1.8em;
+    color: #343a40; /* 深灰色标题 */
+    margin-bottom: 15px;
+}
+
+.image-placeholder {
+    width: 100%;
+    height: 200px; /* 调整占位符高度 */
+    background-color: #adb5bd; /* 灰色占位符 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+p {
+    line-height: 1.6;
+    color: #6c757d; /* 灰色段落文字 */
+    margin-bottom: 15px;
+}
+
+.sidebar h2 {
+    font-size: 1.2em;
+    color: #495057;
+    margin-bottom: 10px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar li {
+    margin-bottom: 8px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #e9ecef; /* 浅灰色分割线 */
+    text-align: center;
+    color: #6c757d; /* 灰色页脚文字 */
+}
