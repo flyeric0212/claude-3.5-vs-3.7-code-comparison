@@ -19,48 +19,49 @@ Each AI model was tested on three different frontend development tasks:
 Recreating the Cursor official website UI from screenshots, testing the AI's ability to translate visual designs into functional code.
 
 claude 3.5:
-![image-20250301下午72015695](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8872015695.png)
+
+![image-20250301下午72015695](/images/fontent-replication-claude-3.5-01.png)
 
 claude 3.7:
-![image-20250301下午84237225](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8884237225.png)
+![image-20250301下午84237225](/images/fontent-replication-claude-3.7-01.png)
 
-![image-20250301下午84305134](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8884305134.png)
+![image-20250301下午84305134](/images/fontent-replication-claude-3.7-02.png)
 
 ...
-![image-20250301下午84432714](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8884432714.png)
+![image-20250301下午84432714](/images/fontent-replication-claude-3.7-03.png)
 
 
 ### 2. Traditional Framework Application
 Implementing a login page using HTML, CSS, and JavaScript, evaluating the AI's proficiency with fundamental web technologies.
 
 claude 3.5:
-![image-20250301下午85733698](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8885733698.png)
+![image-20250301下午85733698](/images/traditional-framework-claude-3.5-01.png)
 
 claude 3.7:
-![image-20250301下午90148157](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8890148157.png)
+![image-20250301下午90148157](/images/traditional-framework-claude-3.7-01.png)
 
 ### 3. Single Page Application
 Developing a blog application using React, assessing the AI's capability to work with modern frontend frameworks and create interactive user interfaces.
 
 claude 3.5:
-![image-20250301下午103150854](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103150854.png)
+![image-20250301下午103150854](images/single-page-claude-3.5-01.png)
 
-![image-20250301下午103223476](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103223476.png)
+![image-20250301下午103223476](images/single-page-claude-3.5-02.pngg)
 
-![image-20250301下午103246207](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103246207.png)
+![image-20250301下午103246207](images/single-page-claude-3.5-03.png)
 
-![image-20250301下午103301981](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%88103301981.png)
+![image-20250301下午103301981](images/single-page-claude-3.5-04.png)
 
 claude 3.7:
-![image-20250301下午91727614](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891727614.png)
+![image-20250301下午91727614](images/single-page-claude-3.7-01.png)
 
-![image-20250301下午91805328](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891805328.png)
+![image-20250301下午91805328](images/single-page-claude-3.7-02.png)
 
-![image-20250301下午91856270](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891856270.png)
+![image-20250301下午91856270](images/single-page-claude-3.7-03.png)
 
-![image-20250301下午91929079](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8891929079.png)
+![image-20250301下午91929079](images/single-page-claude-3.7-04.png)
 
-![image-20250301下午92358376](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20250301%E4%B8%8B%E5%8D%8892358376.png)
+![image-20250301下午92358376](images/single-page-claude-3.7-05.png)
 
 ## Purpose
 
