@@ -46,7 +46,7 @@ Developing a blog application using React, assessing the AI's capability to work
 claude 3.5:
 ![image-20250301下午103150854](images/single-page-claude-3.5-01.png)
 
-![image-20250301下午103223476](images/single-page-claude-3.5-02.pngg)
+![image-20250301下午103223476](images/single-page-claude-3.5-02.png)
 
 ![image-20250301下午103246207](images/single-page-claude-3.5-03.png)
 
